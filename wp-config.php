@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'freedb_portfolio107' );
 
 /** Database username */
-define( 'DB_USER', 'ktenzin' );
+define( 'DB_USER', 'freedb_karma' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'PqX%ka7tz9&4eK%' );
